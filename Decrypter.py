@@ -1,4 +1,4 @@
-#Martin Skachkov
+#Martin Skachkov and Chloe Parentela
 #Decrypting Software For B.E.D.S.
 
 def decrypter(input0, input1, binary):
